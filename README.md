@@ -49,4 +49,6 @@ To run this application locally, follow these steps:
 
 
 ![Screenshot 2024-04-25 193300](https://github.com/Osama066/Image-Caption-Generator/assets/109853647/ed420f22-d80a-4661-91ec-a1cff36a29be)
-
+![Screenshot 2024-04-25 193416](https://github.com/Osama066/Image-Caption-Generator/assets/109853647/cdfc1bbd-6f4a-436f-9575-a73c63bf491c)
+Caption will look like this.
+![Screenshot 2024-04-25 193445](https://github.com/Osama066/Image-Caption-Generator/assets/109853647/43076822-1893-4f9c-9ba5-faebb4e50a78)
