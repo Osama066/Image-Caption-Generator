@@ -48,4 +48,5 @@ To run this application locally, follow these steps:
 3. Click the "Generate Caption" button to generate and display the caption for the uploaded image.
 
 
+![Screenshot 2024-04-25 193300](https://github.com/Osama066/Image-Caption-Generator/assets/109853647/ed420f22-d80a-4661-91ec-a1cff36a29be)
 
